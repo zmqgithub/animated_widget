@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'circular.dart';
+import 'triangle.dart';
+import 'square.dart';
 void main() => runApp(new MyApp());
 
 class MyApp extends StatelessWidget {
@@ -45,7 +47,9 @@ class _MyHomePageState extends State<MyHomePage> {
             new Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: <Widget>[
-                new Circular(size: width/1.2,color: const Color(0xFF6155B7),),
+//                new Circular(size: width/3,color: const Color(0xFF6155B7),),
+//                new TriangleView(size: width/3,color: const Color(0xFF6155B7),),
+                new Square(size: width/3,color: Colors.blue,),
               ],),
           ],
         ),
