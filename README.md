@@ -9,6 +9,8 @@ For help getting started with Flutter, view our online
 
 Demo Image
 
-![alt text](https://github.com/zmqgithub/animated_widget/blob/master/demo_img.gif)
+![alt text](https://github.com/zmqgithub/animated_widget/blob/master/demoimages/point_img.gif)
 
-![alt text](https://github.com/zmqgithub/animated_widget/blob/master/triangle_demo.gif)
+![alt text](https://github.com/zmqgithub/animated_widget/blob/master/demoimages/square_demo.gif)
+
+![alt text](https://github.com/zmqgithub/animated_widget/blob/master/demoimages/triangle_demo.gif)
